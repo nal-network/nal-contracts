@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at optimistic.etherscan.io on 2021-08-31
+ *Submitted for verification at scan.nal.network on 2024-07-03
 */
 
 // Sources flattened with hardhat v2.3.3 https://hardhat.org
